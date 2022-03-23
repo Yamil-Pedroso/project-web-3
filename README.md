@@ -1,1 +1,2 @@
-# project-web-3
+# Krypt - Web 3.0 Blockchain Application
+
